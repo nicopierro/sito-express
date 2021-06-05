@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "game": "Overwatch",
+        "publisher": "Blizzard Entertainment"
+    },
+    {
+        "id": 2,
+        "game": "League of Legends",
+        "publisher": "Riot Games"
+    },
+    {
+        "id": 3,
+        "game": "Minecraft",
+        "publisher": "Mojang Studios"
+    },
+    {
+        "id": 4,
+        "title": "Doom Eternal",
+        "body": "Bethesda Softworks"
+    }
+]
